@@ -1,0 +1,20 @@
+{
+  "name": "ride-server",
+  "version": "1.0.0",
+  "description": "Backend for small ride app for Jeeny case study",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.1",
+    "morgan": "^1.10.0",
+    "uuid": "^11.1.0"
+  }
+}

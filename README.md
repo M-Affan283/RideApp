@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Fill this section with your introduction]
+This is a simple React based web app for the second Jeeny case study. The tech stack used was MERN (Mongo, Express, React, Node) due to its flexibility, scalability and speed of development.
 
 ## Project Structure
 
